@@ -2,7 +2,6 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@900&family=League+Spartan:wght@900&family=Passion+One:wght@900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
@@ -24,7 +23,7 @@ Fonts are separated by a & */
   --paragraph-background-color: #ffff  ;
   --nav-link-color: #F17300;
   --nav-background-color: #054A91;
-=======
+}
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
@@ -46,7 +45,6 @@ Fonts are separated by a & */
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;
   --nav-background-color: #D4AC0D;
->>>>>>> 230e13f1506bdaa9ec618efb62f6b59834e3ddab
   --nav-hover-link-color: white;
   --nav-hover-background-color: #396E94;
 }
